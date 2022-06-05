@@ -1,0 +1,6 @@
+---
+# tasks file for 08-ansible-06
+- name: test my new role
+  my_own_module:
+    path: "{{ file_path }}"
+    content: "{{ file_content }}"

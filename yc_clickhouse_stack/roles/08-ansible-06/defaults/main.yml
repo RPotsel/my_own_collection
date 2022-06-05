@@ -1,0 +1,4 @@
+---
+# defaults file for 08-ansible-06
+file_path: "./my_test_file.txt"
+file_content: "Test content for role 1"
